@@ -2,8 +2,8 @@
 # 移动安全指南
 ### 移动安全指南-owasp MASTG中文译文，后期会对内容进行进行大幅更新，和本土优化
 ## 指南介绍
-- 同时也欢迎您的参与
-- 开源文档github.io[程序员开发指南 Developer Guide for Programmers](https://guide.996station.com/#/)
+- 欢迎Star，Fork，同时也欢迎您的参与
+- 更优雅的阅读方式：开源文档github.io[程序员开发指南 Developer Guide for Programmers](https://guide.996station.com/#/)
 - 更多更好的内容，请访问[996station技术栈](https://www.996station.com)
 
 ## 指南目录
